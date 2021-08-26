@@ -1,0 +1,131 @@
+2021-07-24 16:57:09.983 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 16:57:10.014 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:03:26.215 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id, customerId, roleId, createTime, updateTime, validFlag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:03:26.235 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:12:02.561 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:12:02.585 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:19:07.380 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:19:07.381 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:19:07.407 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:22:26.201 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:22:26.224 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:22:26.247 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:24:13.237 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:24:13.261 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:24:13.279 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:25:42.968 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:25:42.988 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:25:43.006 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:31:28.489 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:31:28.511 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:31:28.529 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:42:09.672 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:42:09.704 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:42:09.726 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:42:09.727 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - ==>  Preparing: insert into tb_user_role (id, customer_id, role_id, create_time, update_time, valid_flag) values (?, ?, ?, ?, ?, ?) 
+2021-07-24 17:42:09.730 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - ==> Parameters: null, test(String), 123(String), 2021-07-24 17:42:09.727(Timestamp), 2021-07-24 17:42:09.727(Timestamp), 0(Integer)
+2021-07-24 17:42:09.739 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - <==    Updates: 1
+2021-07-24 17:42:57.080 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:42:57.081 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:42:57.084 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 1
+2021-07-24 17:47:20.886 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? AND valid_flag = 0 
+2021-07-24 17:47:20.908 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test1(String)
+2021-07-24 17:47:20.926 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:47:20.927 [http-nio-8763-exec-1] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - ==>  Preparing: insert into tb_user_role (id, customer_id, role_id, create_time, update_time, valid_flag) values (?, ?, ?, ?, ?, ?) 
+2021-07-24 17:47:20.932 [http-nio-8763-exec-1] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - ==> Parameters: 1(Integer), test1(String), 123(String), 2021-07-24 17:47:20.926(Timestamp), 2021-07-24 17:47:20.926(Timestamp), 0(Integer)
+2021-07-24 17:59:43.223 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 17:59:43.245 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test1(String)
+2021-07-24 17:59:43.263 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 17:59:43.265 [http-nio-8763-exec-3] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - ==>  Preparing: insert into tb_user_role (id, customer_id, role_id, create_time, update_time, valid_flag) values (?, ?, ?, ?, ?, ?) 
+2021-07-24 17:59:43.267 [http-nio-8763-exec-3] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - ==> Parameters: null, test1(String), 123(String), 2021-07-24 17:59:43.264(Timestamp), 2021-07-24 17:59:43.264(Timestamp), 0(Integer)
+2021-07-24 17:59:43.285 [http-nio-8763-exec-3] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.insert - <==    Updates: 1
+2021-07-24 17:59:58.344 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 17:59:58.344 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 17:59:58.347 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 1
+2021-07-24 17:59:58.362 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET customer_id = ?, role_id = ?, update_time = ?, valid_flag = ? where customer_id = ? 
+2021-07-24 17:59:58.363 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: test(String), 123(String), 2021-07-24 17:59:58.347(Timestamp), 0(Integer), test(String)
+2021-07-24 17:59:58.370 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 1
+2021-07-24 18:00:34.525 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 18:00:34.525 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 18:00:34.526 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 1
+2021-07-24 18:00:34.527 [http-nio-8763-exec-4] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET customer_id = ?, role_id = ?, update_time = ?, valid_flag = ? where customer_id = ? 
+2021-07-24 18:00:34.527 [http-nio-8763-exec-4] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: test(String), 123(String), 2021-07-24 18:00:34.527(Timestamp), 0(Integer), test(String)
+2021-07-24 18:00:34.532 [http-nio-8763-exec-4] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 1
+2021-07-24 18:19:15.216 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:19:15.247 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: 123(String), 2021-07-24 18:19:15.189(Timestamp), null
+2021-07-24 18:19:15.249 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 0
+2021-07-24 18:20:00.639 [http-nio-8763-exec-3] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:20:00.639 [http-nio-8763-exec-3] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: 12345(String), 2021-07-24 18:20:00.637(Timestamp), null
+2021-07-24 18:20:00.640 [http-nio-8763-exec-3] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 0
+2021-07-24 18:22:49.819 [http-nio-8763-exec-1] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:22:50.087 [http-nio-8763-exec-1] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: 12345(String), 2021-07-24 18:22:25.543(Timestamp), null
+2021-07-24 18:22:50.091 [http-nio-8763-exec-1] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 0
+2021-07-24 18:24:42.749 [http-nio-8763-exec-4] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:24:42.773 [http-nio-8763-exec-4] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: 12345(String), 2021-07-24 18:24:42.719(Timestamp), null
+2021-07-24 18:24:42.776 [http-nio-8763-exec-4] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 0
+2021-07-24 18:24:48.504 [http-nio-8763-exec-3] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:24:48.505 [http-nio-8763-exec-3] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: 12345(String), 2021-07-24 18:24:48.503(Timestamp), null
+2021-07-24 18:24:48.505 [http-nio-8763-exec-3] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 0
+2021-07-24 18:25:01.928 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:25:01.951 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: 12345(String), 2021-07-24 18:25:01.898(Timestamp), null
+2021-07-24 18:25:01.959 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 0
+2021-07-24 18:26:24.139 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET customer_id = ?, role_id = ?, update_time = ? where customer_id = ? 
+2021-07-24 18:26:24.162 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: test(String), 12345(String), 2021-07-24 18:26:24.112(Timestamp), test(String)
+2021-07-24 18:26:24.173 [http-nio-8763-exec-2] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 1
+2021-07-24 18:33:49.920 [http-nio-8763-exec-1] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==>  Preparing: update tb_user_role SET customer_id = ?, update_time = ?, valid_flag = ? where customer_id = ? 
+2021-07-24 18:33:49.941 [http-nio-8763-exec-1] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - ==> Parameters: test(String), 2021-07-24 18:33:49.89(Timestamp), 1(Integer), test(String)
+2021-07-24 18:33:49.950 [http-nio-8763-exec-1] DEBUG c.e.c.r.m.U.updateByPrimaryKeySelective - <==    Updates: 1
+2021-07-24 21:49:01.226 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-24 21:49:01.256 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:49:01.290 [http-nio-8763-exec-6] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:49:01.292 [http-nio-8763-exec-6] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==>  Preparing: select * from tb_user_role LIMIT ? 
+2021-07-24 21:49:01.292 [http-nio-8763-exec-6] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-24 21:49:01.297 [http-nio-8763-exec-6] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - <==      Total: 2
+2021-07-24 21:49:23.106 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-24 21:49:23.106 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:49:23.108 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:49:41.392 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-24 21:49:41.393 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:49:41.393 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:49:41.394 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==>  Preparing: select * from tb_user_role LIMIT ? 
+2021-07-24 21:49:41.394 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-24 21:49:41.395 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - <==      Total: 2
+2021-07-24 21:50:05.509 [http-nio-8763-exec-10] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_para_role 
+2021-07-24 21:50:05.509 [http-nio-8763-exec-10] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:50:05.583 [http-nio-8763-exec-10] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:50:05.584 [http-nio-8763-exec-10] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==>  Preparing: select id, role_id, role_name, role_permission, create_time, update_time, valid_flag from tb_para_role order by role_permission, id LIMIT ? 
+2021-07-24 21:50:05.584 [http-nio-8763-exec-10] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-24 21:50:05.590 [http-nio-8763-exec-10] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - <==      Total: 10
+2021-07-24 21:50:16.994 [http-nio-8763-exec-7] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_para_role 
+2021-07-24 21:50:16.995 [http-nio-8763-exec-7] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:50:16.996 [http-nio-8763-exec-7] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:50:16.996 [http-nio-8763-exec-7] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==>  Preparing: select id, role_id, role_name, role_permission, create_time, update_time, valid_flag from tb_para_role order by role_permission, id LIMIT ?, ? 
+2021-07-24 21:50:16.997 [http-nio-8763-exec-7] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==> Parameters: 10(Long), 10(Integer)
+2021-07-24 21:50:17.000 [http-nio-8763-exec-7] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - <==      Total: 4
+2021-07-24 21:51:34.601 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-24 21:51:34.623 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:51:34.646 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:51:34.648 [http-nio-8763-exec-2] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==>  Preparing: select * from tb_user_role LIMIT ? 
+2021-07-24 21:51:34.648 [http-nio-8763-exec-2] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-24 21:51:34.651 [http-nio-8763-exec-2] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - <==      Total: 2
+2021-07-24 21:51:44.113 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-24 21:51:44.113 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:51:44.114 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:51:56.780 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-24 21:51:56.780 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-24 21:51:56.781 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-24 21:51:56.781 [http-nio-8763-exec-4] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==>  Preparing: select * from tb_user_role LIMIT ? 
+2021-07-24 21:51:56.781 [http-nio-8763-exec-4] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-24 21:51:56.783 [http-nio-8763-exec-4] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - <==      Total: 2
+2021-07-24 22:02:09.766 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 22:02:09.788 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: 1(String)
+2021-07-24 22:02:09.806 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 0
+2021-07-24 22:02:29.921 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 22:02:29.921 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 22:02:29.924 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 1
+2021-07-24 22:02:39.722 [http-nio-8763-exec-7] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 22:02:39.722 [http-nio-8763-exec-7] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test1(String)
+2021-07-24 22:02:39.723 [http-nio-8763-exec-7] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 1
+2021-07-24 22:02:45.137 [http-nio-8763-exec-9] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==>  Preparing: select id , customer_id, role_id, create_time, update_time, valid_flag from tb_user_role where customer_id = ? 
+2021-07-24 22:02:45.137 [http-nio-8763-exec-9] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - ==> Parameters: test(String)
+2021-07-24 22:02:45.139 [http-nio-8763-exec-9] DEBUG c.e.c.r.mapper.UserRoleMapper.selectByCustomerId - <==      Total: 1

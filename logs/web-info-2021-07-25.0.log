@@ -1,0 +1,1292 @@
+2021-07-22 17:02:42.645 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 15124 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:02:42.651 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 17:02:44.421 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:02:44.441 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:02:45.663 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 17:06:24.348 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 17048 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:06:24.351 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 17:06:25.367 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:06:25.381 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:06:26.378 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 17:06:37.686 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 17136 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:06:37.688 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:06:38.410 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:06:38.420 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:06:38.830 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:06:38.838 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:06:38.839 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:06:38.839 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:06:38.935 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:06:38.935 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1210 ms
+2021-07-22 17:06:39.153 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-22 17:06:39.162 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 17:07:39.541 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 17256 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:07:39.544 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:07:40.278 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:07:40.288 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:07:40.672 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:07:40.678 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:07:40.679 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:07:40.679 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:07:40.754 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:07:40.755 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1166 ms
+2021-07-22 17:07:40.988 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-22 17:07:40.998 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 17:08:34.594 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14952 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:08:34.597 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:08:35.356 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:08:35.366 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:08:35.736 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:08:35.744 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:08:35.744 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:08:35.744 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:08:35.825 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:08:35.825 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1179 ms
+2021-07-22 17:08:36.653 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:08:36.816 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 17:08:36.890 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:08:36.904 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8762 (http) with context path ''
+2021-07-22 17:08:37.127 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.989 seconds (JVM running for 3.949)
+2021-07-22 17:08:48.266 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 7404 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:08:48.269 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:08:48.999 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:08:49.008 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:08:49.385 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:08:49.392 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:08:49.393 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:08:49.393 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:08:49.479 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:08:49.479 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1168 ms
+2021-07-22 17:08:50.225 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:08:50.314 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 17:08:50.371 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:08:50.383 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8762 (http) with context path ''
+2021-07-22 17:08:50.611 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.76 seconds (JVM running for 3.8)
+2021-07-22 17:19:27.961 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 1656 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:19:27.963 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:19:28.733 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:19:28.743 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:19:29.144 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:19:29.152 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:19:29.152 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:19:29.153 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:19:29.234 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:19:29.234 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1228 ms
+2021-07-22 17:19:30.001 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:19:31.129 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-22 17:19:31.137 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 17:26:40.853 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 6168 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:26:40.855 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:26:41.625 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:26:41.637 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:26:42.050 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:26:42.058 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:26:42.058 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:26:42.059 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:26:42.149 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:26:42.149 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1241 ms
+2021-07-22 17:26:43.032 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:26:44.154 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-22 17:26:44.163 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 17:30:09.975 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 6352 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:30:09.979 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 17:30:10.634 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:30:10.644 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:30:10.995 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 17:30:11.004 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:30:11.005 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 17:30:11.005 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 17:30:11.080 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 17:30:11.080 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1060 ms
+2021-07-22 17:30:11.766 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:30:11.890 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 17:30:11.958 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8762"]
+2021-07-22 17:30:11.971 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8762 (http) with context path ''
+2021-07-22 17:30:12.170 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.609 seconds (JVM running for 3.631)
+2021-07-22 17:30:37.525 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 9584 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:30:37.528 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 17:30:38.674 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:30:38.691 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:30:42.525 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:30:42.880 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 17:30:43.613 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 6.416 seconds (JVM running for 7.894)
+2021-07-22 17:30:44.074 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 17:30:44.095 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 17:31:22.779 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 6932 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:31:22.781 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 17:31:23.598 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:31:23.609 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:31:25.739 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:31:25.931 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 17:31:26.348 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 3.944 seconds (JVM running for 5.333)
+2021-07-22 17:31:26.591 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 17:31:26.602 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 17:31:59.122 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 10664 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 17:31:59.126 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 17:32:00.077 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 17:32:00.093 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 JDBC repository interfaces.
+2021-07-22 17:32:04.796 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 17:32:05.166 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 17:32:06.095 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 7.434 seconds (JVM running for 9.577)
+2021-07-22 18:50:49.978 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 18:50:49.990 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 19:05:36.461 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14424 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 19:05:36.464 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 19:05:37.341 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 19:05:37.353 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-22 19:05:39.993 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 19:05:40.195 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 19:05:40.752 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 4.665 seconds (JVM running for 6.556)
+2021-07-22 19:05:41.101 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 19:05:41.114 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 19:10:13.652 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 9288 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 19:10:13.654 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 19:10:14.486 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 19:10:14.497 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-22 19:10:16.840 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 19:10:17.044 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 19:10:17.614 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 4.324 seconds (JVM running for 5.447)
+2021-07-22 19:10:18.092 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 19:10:18.110 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 19:11:51.889 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 16120 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 19:11:51.891 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 19:11:52.711 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 19:11:52.722 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-22 19:11:54.975 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 19:11:55.177 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 19:11:55.654 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 4.101 seconds (JVM running for 5.59)
+2021-07-22 19:11:56.096 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 19:11:56.108 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 21:38:48.897 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Starting CrmgoApplicationTests using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14372 (started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 21:38:48.901 [main] INFO  com.example.crmgo.CrmgoApplicationTests - The following profiles are active: dev
+2021-07-22 21:38:49.869 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 21:38:49.881 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-22 21:38:52.294 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 21:38:52.528 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 21:38:53.040 [main] INFO  com.example.crmgo.CrmgoApplicationTests - Started CrmgoApplicationTests in 4.582 seconds (JVM running for 6.34)
+2021-07-22 21:38:53.512 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 21:38:53.541 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 21:39:16.607 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14852 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 21:39:16.609 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 21:39:17.317 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 21:39:17.327 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 21:39:17.756 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 21:39:17.764 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:39:17.765 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 21:39:17.766 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 21:39:17.864 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 21:39:17.864 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1216 ms
+2021-07-22 21:39:18.665 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 21:39:18.770 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 21:39:18.840 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:39:18.864 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 21:39:18.869 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 21:39:18.872 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:39:18.872 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-22 21:39:18.876 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:39:18.876 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:39:18.886 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 21:52:09.142 [http-nio-8762-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-22 21:52:09.144 [http-nio-8762-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-22 21:52:09.240 [http-nio-8762-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 96 ms
+2021-07-22 21:52:09.312 [http-nio-8762-exec-2] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 21:52:09.313 [http-nio-8762-exec-2] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8762/test/query
+2021-07-22 21:54:30.156 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 10208 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 21:54:30.160 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 21:54:30.897 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 21:54:30.907 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-22 21:54:31.344 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8762 (http)
+2021-07-22 21:54:31.354 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:54:31.354 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 21:54:31.354 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 21:54:31.456 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 21:54:31.456 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1236 ms
+2021-07-22 21:54:32.277 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 21:54:32.394 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 21:54:32.452 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:54:32.460 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-22 21:54:32.464 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-22 21:54:32.466 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:54:32.466 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-22 21:54:32.469 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:54:32.470 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8762"]
+2021-07-22 21:54:32.476 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-22 21:54:56.518 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 1120 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 21:54:56.521 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 21:54:57.268 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 21:54:57.277 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 21:54:57.707 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-22 21:54:57.714 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-22 21:54:57.714 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 21:54:57.715 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 21:54:57.800 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 21:54:57.800 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1225 ms
+2021-07-22 21:54:58.562 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 21:54:58.652 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 21:54:58.710 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-22 21:54:58.728 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-22 21:54:58.960 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.885 seconds (JVM running for 3.767)
+2021-07-22 21:55:09.280 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-22 21:55:09.280 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-22 21:55:09.281 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-22 21:55:09.290 [http-nio-8763-exec-1] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 21:55:09.292 [http-nio-8763-exec-1] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query
+2021-07-22 21:56:09.359 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 148 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 21:56:09.363 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 21:56:10.051 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 21:56:10.060 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 21:56:10.439 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-22 21:56:10.446 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-22 21:56:10.447 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 21:56:10.447 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 21:56:10.529 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 21:56:10.529 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1115 ms
+2021-07-22 21:56:11.301 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 21:56:11.394 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 21:56:11.451 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-22 21:56:11.464 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-22 21:56:11.686 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.804 seconds (JVM running for 3.696)
+2021-07-22 21:56:15.732 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-22 21:56:15.733 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-22 21:56:15.734 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-22 22:03:11.976 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 13380 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 22:03:11.979 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 22:03:12.653 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 22:03:12.662 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-22 22:03:13.026 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-22 22:03:13.032 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-22 22:03:13.032 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 22:03:13.033 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 22:03:13.110 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 22:03:13.110 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1086 ms
+2021-07-22 22:03:13.842 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 22:03:13.935 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 22:03:13.992 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-22 22:03:14.005 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-22 22:03:14.227 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.685 seconds (JVM running for 3.553)
+2021-07-22 22:03:22.104 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-22 22:03:22.104 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-22 22:03:22.105 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-22 22:03:22.116 [http-nio-8763-exec-1] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 22:03:22.116 [http-nio-8763-exec-1] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query/1
+2021-07-22 22:04:15.960 [http-nio-8763-exec-7] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 22:04:15.961 [http-nio-8763-exec-7] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query/1
+2021-07-22 22:04:23.672 [http-nio-8763-exec-8] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 22:04:23.673 [http-nio-8763-exec-8] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query/1
+2021-07-22 22:05:01.594 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12128 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-22 22:05:01.597 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-22 22:05:02.294 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-22 22:05:02.302 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-22 22:05:02.682 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-22 22:05:02.689 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-22 22:05:02.690 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-22 22:05:02.690 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-22 22:05:02.774 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-22 22:05:02.774 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1126 ms
+2021-07-22 22:05:03.503 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-22 22:05:03.594 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-22 22:05:03.650 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-22 22:05:03.663 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-22 22:05:03.888 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.694 seconds (JVM running for 3.536)
+2021-07-22 22:05:08.868 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-22 22:05:08.868 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-22 22:05:08.872 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-07-22 22:05:08.882 [http-nio-8763-exec-1] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 22:05:08.883 [http-nio-8763-exec-1] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query/1
+2021-07-22 22:12:12.255 [http-nio-8763-exec-4] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 22:12:12.255 [http-nio-8763-exec-4] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query/1
+2021-07-22 22:13:08.560 [http-nio-8763-exec-2] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-22 22:13:08.560 [http-nio-8763-exec-2] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/test/query/
+2021-07-23 10:54:49.462 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14708 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 10:54:49.469 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 10:54:50.375 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 10:54:50.388 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-23 10:54:50.872 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 10:54:50.882 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 10:54:50.882 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 10:54:50.882 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 10:54:50.988 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 10:54:50.988 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1469 ms
+2021-07-23 10:54:51.931 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 10:54:52.188 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 10:54:52.269 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 10:54:52.283 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 10:54:52.531 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.641 seconds (JVM running for 4.771)
+2021-07-23 10:54:57.263 [http-nio-8763-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 10:54:57.264 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 10:54:57.265 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 11:11:32.141 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12628 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 11:11:32.144 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 11:11:32.890 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 11:11:32.901 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-23 11:11:33.351 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 11:11:33.359 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 11:11:33.360 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 11:11:33.360 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 11:11:33.468 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 11:11:33.468 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1266 ms
+2021-07-23 11:11:34.303 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 11:11:34.431 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 11:11:34.493 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 11:11:34.506 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 11:11:34.815 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.209 seconds (JVM running for 4.542)
+2021-07-23 11:11:39.606 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 11:11:39.607 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 11:11:39.608 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 11:12:30.537 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14156 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 11:12:30.539 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 11:12:31.234 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 11:12:31.244 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 11:12:31.633 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 11:12:31.640 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 11:12:31.640 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 11:12:31.641 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 11:12:31.726 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 11:12:31.726 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1138 ms
+2021-07-23 11:12:32.475 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 11:12:32.567 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 11:12:32.625 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 11:12:32.637 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 11:12:32.864 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.774 seconds (JVM running for 3.635)
+2021-07-23 11:13:19.691 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 11:13:19.691 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 11:13:19.692 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 13:57:57.102 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 17428 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 13:57:57.106 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 13:57:58.003 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 13:57:58.019 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 JDBC repository interfaces.
+2021-07-23 13:57:58.554 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 13:57:58.564 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 13:57:58.565 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 13:57:58.565 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 13:57:58.687 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 13:57:58.688 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1523 ms
+2021-07-23 13:57:59.664 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 13:57:59.786 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 13:57:59.872 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 13:57:59.888 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 13:58:00.127 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.507 seconds (JVM running for 4.55)
+2021-07-23 13:58:24.753 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 13:58:24.753 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 13:58:24.754 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 13:59:18.689 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12244 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 13:59:18.692 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 13:59:19.450 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 13:59:19.460 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-23 13:59:19.918 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 13:59:19.927 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 13:59:19.928 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 13:59:19.928 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 13:59:20.023 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 13:59:20.024 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1287 ms
+2021-07-23 13:59:20.911 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 13:59:21.037 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 13:59:21.104 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 13:59:21.119 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 13:59:21.381 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.14 seconds (JVM running for 4.933)
+2021-07-23 13:59:27.227 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 13:59:27.227 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 13:59:27.230 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-07-23 14:00:00.218 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-23 14:00:00.227 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-23 14:04:40.902 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12944 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 14:04:40.905 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 14:04:41.629 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 14:04:41.638 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 14:04:42.017 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 14:04:42.024 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:04:42.025 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 14:04:42.025 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 14:04:42.120 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 14:04:42.120 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1170 ms
+2021-07-23 14:04:42.882 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 14:04:42.981 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 14:04:43.037 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:04:43.051 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 14:04:43.286 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.815 seconds (JVM running for 3.794)
+2021-07-23 14:04:47.636 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 14:04:47.637 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 14:04:47.638 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 14:05:25.690 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 32 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 14:05:25.693 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 14:05:26.391 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 14:05:26.401 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 14:05:26.776 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 14:05:26.783 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:05:26.784 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 14:05:26.784 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 14:05:26.865 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 14:05:26.866 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1126 ms
+2021-07-23 14:05:27.601 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 14:05:27.707 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 14:05:27.764 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:05:27.777 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 14:05:28.025 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.758 seconds (JVM running for 3.64)
+2021-07-23 14:05:38.278 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 14:05:38.278 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 14:05:38.279 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 14:12:46.841 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 9852 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 14:12:46.843 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 14:12:47.562 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 14:12:47.574 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-23 14:12:48.014 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 14:12:48.023 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:12:48.023 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 14:12:48.023 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 14:12:48.126 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 14:12:48.126 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1248 ms
+2021-07-23 14:12:48.941 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 14:12:49.077 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 14:12:49.136 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:12:49.149 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 14:12:49.376 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.982 seconds (JVM running for 4.077)
+2021-07-23 14:12:55.238 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 14:12:55.238 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 14:12:55.239 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 14:13:39.104 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 18076 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 14:13:39.106 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 14:13:39.801 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 14:13:39.812 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 14:13:40.189 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 14:13:40.195 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:13:40.196 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 14:13:40.196 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 14:13:40.278 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 14:13:40.278 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1121 ms
+2021-07-23 14:13:41.036 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 14:13:41.131 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 14:13:41.188 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:13:41.200 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 14:13:41.434 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.744 seconds (JVM running for 3.702)
+2021-07-23 14:14:21.098 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 14:14:21.099 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 14:14:21.100 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 14:36:36.320 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 8400 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 14:36:36.323 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 14:36:36.975 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 14:36:36.984 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-23 14:36:37.319 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 14:36:37.326 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:36:37.327 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 14:36:37.327 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 14:36:37.395 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 14:36:37.395 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1026 ms
+2021-07-23 14:36:38.077 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 14:36:38.172 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 14:36:38.230 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:36:38.241 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 14:36:38.452 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.556 seconds (JVM running for 3.352)
+2021-07-23 14:37:09.078 [http-nio-8763-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 14:37:09.079 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 14:37:09.080 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 14:37:09.087 [http-nio-8763-exec-4] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-23 14:37:09.089 [http-nio-8763-exec-4] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/roleManage/query
+2021-07-23 14:37:53.560 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 16580 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 14:37:53.563 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 14:37:54.190 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 14:37:54.199 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 14:37:54.529 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 14:37:54.535 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:37:54.536 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 14:37:54.536 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 14:37:54.608 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 14:37:54.608 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1004 ms
+2021-07-23 14:37:55.289 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 14:37:55.370 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 14:37:55.420 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 14:37:55.434 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 14:37:55.642 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.463 seconds (JVM running for 3.261)
+2021-07-23 14:38:00.571 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 14:38:00.571 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 14:38:00.574 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 15:00:59.916 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 17712 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 15:00:59.919 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 15:01:00.599 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 15:01:00.609 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 15:01:00.992 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 15:01:00.998 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:01:00.999 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 15:01:00.999 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 15:01:01.076 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 15:01:01.076 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1120 ms
+2021-07-23 15:01:01.830 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 15:01:01.935 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 15:01:01.989 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:01:02.000 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 15:01:02.208 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.716 seconds (JVM running for 3.617)
+2021-07-23 15:01:08.475 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 15:01:08.475 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 15:01:08.476 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 15:01:32.728 [http-nio-8763-exec-3] INFO  c.e.c.r.service.impl.RoleManagementServiceImpl - 输入的页码有误，请重新输入 page->0
+2021-07-23 15:02:04.728 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 9616 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 15:02:04.730 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 15:02:05.367 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 15:02:05.375 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-23 15:02:05.716 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 15:02:05.722 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:02:05.723 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 15:02:05.723 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 15:02:05.790 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 15:02:05.790 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1006 ms
+2021-07-23 15:02:06.472 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 15:02:06.555 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 15:02:06.607 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:02:06.618 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 15:02:06.827 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.458 seconds (JVM running for 3.272)
+2021-07-23 15:02:12.328 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 15:02:12.329 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 15:02:12.330 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 15:02:12.374 [http-nio-8763-exec-3] INFO  c.e.c.r.service.impl.RoleManagementServiceImpl - 输入的页码有误，请重新输入 page->0
+2021-07-23 15:17:38.295 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 13900 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 15:17:38.297 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 15:17:38.976 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 15:17:38.986 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 15:17:39.401 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 15:17:39.409 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:17:39.409 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 15:17:39.410 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 15:17:39.485 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 15:17:39.485 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1152 ms
+2021-07-23 15:17:40.237 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 15:17:40.330 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 15:17:40.390 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:17:40.401 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 15:17:40.618 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.84 seconds (JVM running for 3.734)
+2021-07-23 15:18:09.576 [http-nio-8763-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 15:18:09.576 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 15:18:09.577 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 15:18:16.113 [http-nio-8763-exec-3] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-23 15:18:16.117 [http-nio-8763-exec-3] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/roleManage/add
+2021-07-23 15:18:41.309 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 15616 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 15:18:41.310 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 15:18:41.958 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 15:18:41.967 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-23 15:18:42.312 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 15:18:42.322 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:18:42.322 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 15:18:42.323 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 15:18:42.392 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 15:18:42.392 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1044 ms
+2021-07-23 15:18:43.079 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 15:18:43.162 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 15:18:43.218 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:18:43.232 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 15:18:43.456 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.519 seconds (JVM running for 3.359)
+2021-07-23 15:18:47.226 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 15:18:47.226 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 15:18:47.227 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-07-23 15:20:13.508 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 9228 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 15:20:13.510 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 15:20:14.133 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 15:20:14.142 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-23 15:20:14.475 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 15:20:14.479 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:20:14.480 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 15:20:14.481 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 15:20:14.580 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 15:20:14.580 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1033 ms
+2021-07-23 15:20:15.276 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 15:20:15.359 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 15:20:15.411 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 15:20:15.425 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 15:20:15.635 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.483 seconds (JVM running for 3.312)
+2021-07-23 15:22:42.281 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 15:22:42.281 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 15:22:42.282 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-23 22:48:05.061 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 10460 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 22:48:05.064 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 22:48:05.902 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 22:48:05.915 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-23 22:48:06.367 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 22:48:06.375 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:48:06.375 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 22:48:06.376 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 22:48:06.461 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 22:48:06.461 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1354 ms
+2021-07-23 22:48:07.028 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-23 22:48:07.041 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-23 22:48:47.376 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 8568 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 22:48:47.379 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 22:48:48.155 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 22:48:48.164 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-23 22:48:48.541 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 22:48:48.548 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:48:48.548 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 22:48:48.549 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 22:48:48.628 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 22:48:48.628 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1189 ms
+2021-07-23 22:48:49.441 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 22:48:49.614 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 22:48:49.690 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:48:49.704 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 22:48:49.951 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.0 seconds (JVM running for 3.864)
+2021-07-23 22:49:00.136 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 22:49:00.138 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 22:49:00.138 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-07-23 22:51:22.178 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 7268 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 22:51:22.180 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 22:51:22.886 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 22:51:22.895 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-23 22:51:23.269 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 22:51:23.276 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:51:23.277 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 22:51:23.277 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 22:51:23.367 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 22:51:23.367 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1139 ms
+2021-07-23 22:51:24.114 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 22:51:24.207 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 22:51:24.264 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:51:24.277 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 22:51:24.553 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.828 seconds (JVM running for 3.711)
+2021-07-23 22:51:28.347 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 22:51:28.347 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 22:51:28.349 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-23 22:51:57.497 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 17588 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-23 22:51:57.499 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-23 22:51:58.209 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-23 22:51:58.220 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-23 22:51:58.591 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-23 22:51:58.598 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:51:58.598 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 22:51:58.598 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 22:51:58.679 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-23 22:51:58.679 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1132 ms
+2021-07-23 22:51:59.441 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-23 22:51:59.531 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-23 22:51:59.587 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-23 22:51:59.600 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-23 22:51:59.851 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.776 seconds (JVM running for 3.619)
+2021-07-23 22:52:10.857 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 22:52:10.858 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 22:52:10.860 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 16:46:15.844 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 15096 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:46:15.856 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:46:16.993 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:46:17.012 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:46:17.668 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:46:17.683 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:46:17.684 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:46:17.684 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:46:17.827 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:46:17.828 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1879 ms
+2021-07-24 16:46:19.321 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:46:20.696 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-24 16:46:20.716 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-24 16:47:23.060 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 11636 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:47:23.064 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:47:23.791 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:47:23.803 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:47:24.260 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:47:24.268 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:47:24.268 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:47:24.268 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:47:24.362 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:47:24.362 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1262 ms
+2021-07-24 16:47:25.357 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:47:25.628 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:47:25.719 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:47:25.731 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:47:25.980 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.414 seconds (JVM running for 4.459)
+2021-07-24 16:47:34.691 [http-nio-8763-exec-5] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 16:47:34.691 [http-nio-8763-exec-5] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 16:47:34.693 [http-nio-8763-exec-5] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-24 16:49:35.155 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 332 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:49:35.157 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:49:35.936 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:49:35.948 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:49:36.396 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:49:36.403 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:49:36.404 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:49:36.404 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:49:36.502 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:49:36.503 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1303 ms
+2021-07-24 16:49:37.444 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:49:37.555 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:49:37.622 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:49:37.637 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:49:37.912 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.138 seconds (JVM running for 4.96)
+2021-07-24 16:49:42.995 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 16:49:42.995 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 16:49:42.998 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-07-24 16:49:58.425 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-24 16:49:58.429 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-24 16:50:06.218 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12192 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:50:06.220 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:50:07.002 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:50:07.016 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:50:07.473 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:50:07.481 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:50:07.482 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:50:07.482 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:50:07.582 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:50:07.583 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1324 ms
+2021-07-24 16:50:08.501 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:50:08.611 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:50:08.681 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:50:08.696 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:50:08.971 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.243 seconds (JVM running for 4.342)
+2021-07-24 16:50:14.629 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 16:50:14.629 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 16:50:14.631 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-24 16:52:08.833 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-24 16:52:08.838 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-24 16:52:11.836 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 3724 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:52:11.839 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:52:12.619 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:52:12.631 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:52:13.096 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:52:13.201 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1315 ms
+2021-07-24 16:52:14.125 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:52:14.234 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:52:14.312 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:52:14.566 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.305 seconds (JVM running for 4.787)
+2021-07-24 16:52:14.755 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-24 16:52:14.759 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-24 16:52:21.833 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 13292 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:52:21.843 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:52:22.651 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:52:22.663 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:52:23.112 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:52:23.120 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:52:23.120 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:52:23.120 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:52:23.223 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:52:23.223 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1341 ms
+2021-07-24 16:52:24.149 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:52:24.261 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:52:24.327 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:52:24.342 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:52:24.613 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.226 seconds (JVM running for 4.38)
+2021-07-24 16:52:30.489 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 16:52:30.489 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 16:52:30.491 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-24 16:54:04.618 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-24 16:54:04.637 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-24 16:54:30.920 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 1808 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:54:30.922 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:54:31.673 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:54:31.684 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:54:32.135 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:54:32.143 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:54:32.144 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:54:32.144 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:54:32.235 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:54:32.236 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1272 ms
+2021-07-24 16:54:33.124 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:54:33.233 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:54:33.299 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:54:33.315 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:54:33.590 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.164 seconds (JVM running for 4.495)
+2021-07-24 16:54:43.040 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 16:54:43.040 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 16:54:43.041 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 16:55:08.420 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-24 16:55:08.429 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-24 16:57:00.815 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 7864 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 16:57:00.817 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 16:57:01.543 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 16:57:01.553 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 16:57:01.967 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 16:57:01.974 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:57:01.974 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 16:57:01.974 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 16:57:02.063 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 16:57:02.064 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1212 ms
+2021-07-24 16:57:02.857 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 16:57:02.953 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 16:57:03.012 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 16:57:03.026 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 16:57:03.279 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.891 seconds (JVM running for 3.789)
+2021-07-24 16:57:09.928 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 16:57:09.928 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 16:57:09.930 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-24 17:03:17.161 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 2732 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:03:17.163 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:03:17.896 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:03:17.906 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:03:18.285 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:03:18.291 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:03:18.292 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:03:18.292 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:03:18.380 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:03:18.380 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1175 ms
+2021-07-24 17:03:19.153 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:03:19.243 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:03:19.300 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:03:19.311 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:03:19.554 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.794 seconds (JVM running for 3.73)
+2021-07-24 17:03:26.171 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:03:26.172 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:03:26.173 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:09:59.810 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 6872 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:09:59.812 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:10:00.516 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:10:00.526 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:10:00.895 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:10:00.902 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:10:00.902 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:10:00.902 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:10:00.982 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:10:00.982 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1127 ms
+2021-07-24 17:10:01.749 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:10:01.838 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:10:01.896 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:10:01.908 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:10:02.150 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.747 seconds (JVM running for 3.595)
+2021-07-24 17:12:02.521 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:12:02.521 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:12:02.522 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:19:07.407 [http-nio-8763-exec-6] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表里面无记录
+2021-07-24 17:19:41.040 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 1932 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:19:41.043 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:19:41.740 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:19:41.750 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:19:42.124 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:19:42.131 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:19:42.132 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:19:42.132 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:19:42.218 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:19:42.218 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1133 ms
+2021-07-24 17:19:42.962 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:19:43.056 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:19:43.113 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:19:43.126 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:19:43.368 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.733 seconds (JVM running for 3.616)
+2021-07-24 17:20:04.249 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:20:04.249 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:20:04.251 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:21:30.474 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12380 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:21:30.477 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:21:31.179 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:21:31.189 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:21:31.566 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:21:31.573 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:21:31.574 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:21:31.575 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:21:31.658 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:21:31.658 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1128 ms
+2021-07-24 17:21:32.412 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:21:32.503 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:21:32.559 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:21:32.571 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:21:32.804 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.729 seconds (JVM running for 3.583)
+2021-07-24 17:21:39.277 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:21:39.278 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:21:39.279 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:22:09.514 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 5852 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:22:09.516 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:22:10.244 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:22:10.253 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:22:10.634 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:22:10.641 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:22:10.642 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:22:10.642 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:22:10.730 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:22:10.730 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1170 ms
+2021-07-24 17:22:11.481 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:22:11.574 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:22:11.631 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:22:11.644 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:22:11.899 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.843 seconds (JVM running for 3.756)
+2021-07-24 17:22:17.316 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:22:17.316 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:22:17.318 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-24 17:22:17.345 [http-nio-8763-exec-1] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 输入有空值
+2021-07-24 17:22:26.247 [http-nio-8763-exec-6] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表里面无记录
+2021-07-24 17:24:05.365 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 13720 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:24:05.367 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:24:06.110 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:24:06.119 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:24:06.507 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:24:06.514 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:24:06.514 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:24:06.514 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:24:06.601 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:24:06.602 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1186 ms
+2021-07-24 17:24:07.357 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:24:07.447 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:24:07.503 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:24:07.515 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:24:07.759 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.831 seconds (JVM running for 3.689)
+2021-07-24 17:24:13.196 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:24:13.197 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:24:13.198 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:24:13.279 [http-nio-8763-exec-1] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表里面无记录
+2021-07-24 17:25:29.589 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 9592 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:25:29.591 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:25:30.272 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:25:30.283 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:25:30.657 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:25:30.664 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:25:30.664 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:25:30.664 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:25:30.756 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:25:30.756 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1114 ms
+2021-07-24 17:25:31.510 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:25:31.602 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:25:31.659 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:25:31.671 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:25:31.911 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.75 seconds (JVM running for 3.646)
+2021-07-24 17:25:42.923 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:25:42.923 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:25:42.924 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:25:43.007 [http-nio-8763-exec-1] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表里面无记录
+2021-07-24 17:25:43.007 [http-nio-8763-exec-1] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - userRole赋值成功
+2021-07-24 17:31:20.528 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 2232 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:31:20.531 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:31:21.219 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:31:21.229 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:31:21.606 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:31:21.613 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:31:21.613 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:31:21.613 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:31:21.700 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:31:21.701 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1116 ms
+2021-07-24 17:31:22.477 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:31:22.569 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:31:22.626 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:31:22.643 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:31:22.895 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.79 seconds (JVM running for 3.662)
+2021-07-24 17:31:28.444 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:31:28.444 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:31:28.445 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:31:28.530 [http-nio-8763-exec-3] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表里面无记录
+2021-07-24 17:31:28.530 [http-nio-8763-exec-3] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - userRole赋值成功
+2021-07-24 17:41:57.930 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 8336 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:41:57.932 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:41:58.776 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:41:58.786 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:41:59.229 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:41:59.238 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:41:59.238 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:41:59.238 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:41:59.346 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:41:59.346 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1374 ms
+2021-07-24 17:42:00.278 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:42:00.396 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:42:00.475 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:42:00.490 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:42:00.751 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.335 seconds (JVM running for 4.269)
+2021-07-24 17:42:09.602 [http-nio-8763-exec-5] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:42:09.602 [http-nio-8763-exec-5] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:42:09.604 [http-nio-8763-exec-5] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-24 17:42:09.726 [http-nio-8763-exec-5] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表里面无记录
+2021-07-24 17:42:09.727 [http-nio-8763-exec-5] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - userRole赋值成功
+2021-07-24 17:42:57.084 [http-nio-8763-exec-3] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 有记录
+2021-07-24 17:47:10.173 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 1196 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:47:10.175 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:47:10.860 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:47:10.869 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:47:11.247 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:47:11.253 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:47:11.254 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:47:11.254 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:47:11.341 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:47:11.341 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1111 ms
+2021-07-24 17:47:12.081 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:47:12.178 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:47:12.234 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:47:12.247 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:47:12.510 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.775 seconds (JVM running for 3.666)
+2021-07-24 17:47:20.841 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:47:20.842 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:47:20.843 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:59:20.574 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 7468 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 17:59:20.576 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 17:59:21.330 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 17:59:21.340 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 17:59:21.712 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 17:59:21.719 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:59:21.719 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 17:59:21.719 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 17:59:21.800 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 17:59:21.800 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1147 ms
+2021-07-24 17:59:22.541 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 17:59:22.636 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 17:59:22.692 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 17:59:22.705 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 17:59:22.940 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.803 seconds (JVM running for 3.704)
+2021-07-24 17:59:43.178 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 17:59:43.178 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 17:59:43.179 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 17:59:58.347 [http-nio-8763-exec-2] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表中有记录
+2021-07-24 18:00:34.526 [http-nio-8763-exec-4] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 表中有记录
+2021-07-24 18:18:50.886 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 12824 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 18:18:50.889 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 18:18:51.607 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 18:18:51.618 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 18:18:51.996 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 18:18:52.002 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:18:52.003 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 18:18:52.003 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 18:18:52.088 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 18:18:52.089 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1150 ms
+2021-07-24 18:18:52.874 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 18:18:52.971 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 18:18:53.031 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:18:53.044 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 18:18:53.301 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.898 seconds (JVM running for 3.808)
+2021-07-24 18:19:15.159 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 18:19:15.159 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 18:19:15.160 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 18:19:15.249 [http-nio-8763-exec-2] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 更新失败
+2021-07-24 18:20:00.641 [http-nio-8763-exec-3] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 更新失败
+2021-07-24 18:21:39.525 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14836 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 18:21:39.527 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 18:21:40.314 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 18:21:40.325 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-24 18:21:40.774 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 18:21:40.782 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:21:40.782 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 18:21:40.782 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 18:21:40.876 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 18:21:40.876 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1311 ms
+2021-07-24 18:21:41.769 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 18:21:41.877 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 18:21:41.942 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:21:41.956 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 18:21:42.229 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.146 seconds (JVM running for 4.36)
+2021-07-24 18:21:46.716 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 18:21:46.717 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 18:21:46.718 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 18:23:33.389 [http-nio-8763-exec-1] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 更新失败
+2021-07-24 18:23:36.249 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-07-24 18:23:36.254 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-07-24 18:24:27.315 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 2508 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 18:24:27.317 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 18:24:28.028 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 18:24:28.039 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 18:24:28.405 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 18:24:28.412 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:24:28.413 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 18:24:28.413 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 18:24:28.499 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 18:24:28.500 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1142 ms
+2021-07-24 18:24:29.280 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 18:24:29.373 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 18:24:29.429 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:24:29.442 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 18:24:29.692 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.803 seconds (JVM running for 3.733)
+2021-07-24 18:24:42.687 [http-nio-8763-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 18:24:42.687 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 18:24:42.689 [http-nio-8763-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 18:24:42.777 [http-nio-8763-exec-4] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 更新失败
+2021-07-24 18:24:48.506 [http-nio-8763-exec-3] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 更新失败
+2021-07-24 18:24:54.798 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14408 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 18:24:54.800 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 18:24:55.514 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 18:24:55.524 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 18:24:55.892 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 18:24:55.899 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:24:55.899 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 18:24:55.899 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 18:24:55.989 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 18:24:55.989 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1149 ms
+2021-07-24 18:24:56.756 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 18:24:56.846 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 18:24:56.902 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:24:56.915 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 18:24:57.149 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.745 seconds (JVM running for 3.622)
+2021-07-24 18:25:01.870 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 18:25:01.870 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 18:25:01.871 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 18:25:01.960 [http-nio-8763-exec-2] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 更新失败
+2021-07-24 18:26:16.628 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 8504 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 18:26:16.630 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 18:26:17.343 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 18:26:17.353 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 18:26:17.723 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 18:26:17.729 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:26:17.730 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 18:26:17.730 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 18:26:17.817 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 18:26:17.817 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1149 ms
+2021-07-24 18:26:18.574 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 18:26:18.668 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 18:26:18.724 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:26:18.737 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 18:26:18.979 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.752 seconds (JVM running for 3.65)
+2021-07-24 18:26:24.084 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 18:26:24.084 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 18:26:24.086 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 18:33:27.240 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 5716 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 18:33:27.242 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 18:33:27.941 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 18:33:27.950 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-24 18:33:28.326 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 18:33:28.333 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:33:28.333 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 18:33:28.334 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 18:33:28.421 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 18:33:28.422 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1127 ms
+2021-07-24 18:33:29.194 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 18:33:29.303 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 18:33:29.359 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 18:33:29.373 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 18:33:29.617 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.8 seconds (JVM running for 3.659)
+2021-07-24 18:33:49.862 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 18:33:49.862 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 18:33:49.863 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 21:48:11.358 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 10772 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 21:48:11.361 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 21:48:12.193 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 21:48:12.205 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 21:48:12.612 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 21:48:12.619 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 21:48:12.620 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 21:48:12.620 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 21:48:12.706 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 21:48:12.706 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1278 ms
+2021-07-24 21:48:13.525 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 21:48:13.634 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 21:48:13.692 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 21:48:13.705 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 21:48:13.959 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.126 seconds (JVM running for 4.035)
+2021-07-24 21:48:38.926 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 21:48:38.926 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 21:48:38.927 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-24 21:48:38.956 [http-nio-8763-exec-2] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 输入的页码有误，请重新输入 page->0
+2021-07-24 21:51:22.273 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14188 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 21:51:22.276 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 21:51:23.040 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 21:51:23.050 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-24 21:51:23.458 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 21:51:23.465 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 21:51:23.465 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 21:51:23.465 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 21:51:23.561 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 21:51:23.561 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1232 ms
+2021-07-24 21:51:24.354 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 21:51:24.473 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 21:51:24.564 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 21:51:24.582 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 21:51:24.824 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.012 seconds (JVM running for 3.929)
+2021-07-24 21:51:34.535 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 21:51:34.536 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 21:51:34.540 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-07-24 22:01:23.578 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 760 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-24 22:01:23.581 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-24 22:01:24.304 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-24 22:01:24.315 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-24 22:01:24.686 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-24 22:01:24.693 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-24 22:01:24.693 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-24 22:01:24.693 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-24 22:01:24.771 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-24 22:01:24.771 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1146 ms
+2021-07-24 22:01:25.550 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-24 22:01:25.639 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-24 22:01:25.695 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-24 22:01:25.707 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-24 22:01:25.956 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.846 seconds (JVM running for 3.784)
+2021-07-24 22:02:09.705 [http-nio-8763-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-24 22:02:09.705 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-24 22:02:09.707 [http-nio-8763-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-07-25 09:38:47.654 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 11444 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-25 09:38:47.662 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-25 09:38:48.519 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-25 09:38:48.532 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2021-07-25 09:38:48.962 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-25 09:38:48.970 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:38:48.971 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-25 09:38:48.971 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-25 09:38:49.059 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-25 09:38:49.059 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1349 ms
+2021-07-25 09:38:49.909 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-25 09:38:50.022 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-25 09:38:50.087 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:38:50.101 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-25 09:38:50.386 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.199 seconds (JVM running for 4.291)
+2021-07-25 09:38:56.641 [http-nio-8763-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-25 09:38:56.641 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-25 09:38:56.642 [http-nio-8763-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-25 09:38:56.654 [http-nio-8763-exec-3] INFO  c.e.crmgo.register.utils.interceptor.Intercept - 测试拦截器启动
+2021-07-25 09:38:56.655 [http-nio-8763-exec-3] INFO  c.e.crmgo.register.utils.interceptor.Intercept - http://localhost:8763/userRoleQueryAll
+2021-07-25 09:40:22.831 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 4624 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-25 09:40:22.834 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-25 09:40:23.779 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-25 09:40:23.790 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-25 09:40:24.163 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-25 09:40:24.169 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:40:24.170 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-25 09:40:24.170 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-25 09:40:24.256 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-25 09:40:24.256 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1366 ms
+2021-07-25 09:40:25.005 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-25 09:40:25.103 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-25 09:40:25.161 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:40:25.174 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-25 09:40:25.429 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 3.119 seconds (JVM running for 4.058)
+2021-07-25 09:40:42.424 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 8564 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-25 09:40:42.426 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-25 09:40:43.142 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-25 09:40:43.153 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-25 09:40:43.543 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-25 09:40:43.555 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:40:43.555 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-25 09:40:43.556 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-25 09:40:43.639 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-25 09:40:43.639 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1170 ms
+2021-07-25 09:40:44.399 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-25 09:40:44.487 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-25 09:40:44.544 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:40:44.557 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-25 09:40:44.803 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.779 seconds (JVM running for 3.678)
+2021-07-25 09:40:51.174 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-25 09:40:51.174 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-25 09:40:51.176 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-25 09:41:45.210 [http-nio-8763-exec-4] INFO  c.e.c.register.service.impl.UserRoleServiceImpl - 输入的页码有误，请重新输入 page->0
+2021-07-25 09:43:28.125 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 14780 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-25 09:43:28.127 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-25 09:43:28.824 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-25 09:43:28.834 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-25 09:43:29.209 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-25 09:43:29.215 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:43:29.216 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-25 09:43:29.216 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-25 09:43:29.302 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-25 09:43:29.303 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1132 ms
+2021-07-25 09:43:30.055 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-25 09:43:30.149 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-25 09:43:30.211 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-25 09:43:30.225 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-25 09:43:30.486 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.749 seconds (JVM running for 3.623)
+2021-07-25 09:43:36.553 [http-nio-8763-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-25 09:43:36.553 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-25 09:43:36.554 [http-nio-8763-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-07-25 09:43:36.575 [http-nio-8763-exec-1] INFO  c.e.c.r.service.impl.RoleManagementServiceImpl - 输入的页码有误，请重新输入 page->0
+2021-07-25 14:11:09.178 [main] INFO  com.example.crmgo.CrmgoApplication - Starting CrmgoApplication using Java 1.8.0_251 on DESKTOP-DGCHB3I with PID 7104 (D:\Documents\java_practice_demo\CRMGO\target\classes started by nantian in D:\Documents\java_practice_demo\CRMGO)
+2021-07-25 14:11:09.183 [main] INFO  com.example.crmgo.CrmgoApplication - The following profiles are active: dev
+2021-07-25 14:11:09.921 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-25 14:11:09.931 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2021-07-25 14:11:10.310 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8763 (http)
+2021-07-25 14:11:10.317 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8763"]
+2021-07-25 14:11:10.318 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-25 14:11:10.318 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-25 14:11:10.388 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-07-25 14:11:10.388 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1163 ms
+2021-07-25 14:11:11.147 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-07-25 14:11:11.308 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-07-25 14:11:11.373 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8763"]
+2021-07-25 14:11:11.384 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8763 (http) with context path ''
+2021-07-25 14:11:11.612 [main] INFO  com.example.crmgo.CrmgoApplication - Started CrmgoApplication in 2.841 seconds (JVM running for 3.745)

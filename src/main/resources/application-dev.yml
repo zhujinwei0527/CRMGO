@@ -1,0 +1,19 @@
+server:
+  port: 8763
+
+spring:
+  application:
+    name: crmgo
+  datasource:
+    driver-class-name : com.mysql.cj.jdbc.Driver
+    url : jdbc:mysql://127.0.0.1:3306/crmdb?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&useSSL=false
+    username : root
+    password : 123456
+
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  type-aliases-package: com.example.crmgo.register.entity
+
+logging:
+  level:
+    com.example.crmgo.register.mapper: debug

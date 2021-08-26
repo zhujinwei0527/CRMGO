@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.crmgo.register.mapper.UserMapper">
+    <resultMap id="BaseResultMap" type="com.example.crmgo.register.entity.User">
+        <id column="id" jdbcType="INTEGER" property="id"/>
+        <result column="customer_id" jdbcType="VARCHAR" property="customerId"/>
+        <result column="customer_name" jdbcType="VARCHAR" property="customerName"/>
+        <result column="certificates_type" jdbcType="CHAR" property="certificatesType"/>
+        <result column="certificates_no" jdbcType="CHAR" property="certificatesNo"/>
+        <result column="pwd" jdbcType="VARCHAR" property="pwd"/>
+        <result column="phone_no" jdbcType="VARCHAR" property="phoneNo"/>
+        <result column="valid_flag" jdbcType="INTEGER" property="validFlag"/>
+        <result column="create_time" jdbcType="TIMESTAMP" property="createTime"/>
+        <result column="update_time" jdbcType="TIMESTAMP" property="updateTime"/>
+    </resultMap>
+    <sql id="Base_Column_List">
+        id
+        , customer_id, customer_name, certificates_type, certificates_no, pwd, phone_no,
+    valid_flag, create_time, update_time
+    </sql>
+    <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+        select
+        <include refid="Base_Column_List"/>
+        from tb_user
+        where id = #{id,jdbcType=INTEGER}
+    </select>
+    <select id="selectByOuterKey" parameterType="java.lang.String" resultMap="BaseResultMap">
+        select
+        <include refid="Base_Column_List"/>
+        from tb_user
+        where customer_id = #{customerId,jdbcType=VARCHAR}
+    </select>
+    <select id="selectEffectiveCount" resultType="java.lang.Integer">
+        select count(*)
+        from tb_user
+        where certificates_type = #{certificatesType,jdbcType=VARCHAR}
+          and certificates_no = #{certificatesNo,jdbcType=VARCHAR}
+          and valid_flag = 0
+    </select>
+    <select id="selectInvalidCount" resultType="java.lang.Integer">
+        select count(*)
+        from tb_user
+        where certificates_type = #{certificatesType,jdbcType=VARCHAR}
+          and certificates_no = #{certificatesNo,jdbcType=VARCHAR}
+          and valid_flag = 1
+    </select>
+    <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+        delete
+        from tb_user
+        where id = #{id,jdbcType=INTEGER}
+    </delete>
+    <insert id="insert" parameterType="com.example.crmgo.register.entity.User">
+        insert into tb_user (id, customer_id, customer_name,
+                             certificates_type, certificates_no, pwd,
+                             phone_no, valid_flag, create_time,
+                             update_time)
+        values (#{id,jdbcType=INTEGER}, #{customerId,jdbcType=VARCHAR}, #{customerName,jdbcType=VARCHAR},
+                #{certificatesType,jdbcType=CHAR}, #{certificatesNo,jdbcType=CHAR}, #{pwd,jdbcType=VARCHAR},
+                #{phoneNo,jdbcType=VARCHAR}, #{validFlag,jdbcType=INTEGER}, #{createTime,jdbcType=TIMESTAMP},
+                #{updateTime,jdbcType=TIMESTAMP})
+    </insert>
+    <insert id="insertSelective" parameterType="com.example.crmgo.register.entity.User">
+        insert into tb_user
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="id != null">
+                id,
+            </if>
+            <if test="customerId != null">
+                customer_id,
+            </if>
+            <if test="customerName != null">
+                customer_name,
+            </if>
+            <if test="certificatesType != null">
+                certificates_type,
+            </if>
+            <if test="certificatesNo != null">
+                certificates_no,
+            </if>
+            <if test="pwd != null">
+                pwd,
+            </if>
+            <if test="phoneNo != null">
+                phone_no,
+            </if>
+            <if test="validFlag != null">
+                valid_flag,
+            </if>
+            <if test="createTime != null">
+                create_time,
+            </if>
+            <if test="updateTime != null">
+                update_time,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="id != null">
+                #{id,jdbcType=INTEGER},
+            </if>
+            <if test="customerId != null">
+                #{customerId,jdbcType=VARCHAR},
+            </if>
+            <if test="customerName != null">
+                #{customerName,jdbcType=VARCHAR},
+            </if>
+            <if test="certificatesType != null">
+                #{certificatesType,jdbcType=CHAR},
+            </if>
+            <if test="certificatesNo != null">
+                #{certificatesNo,jdbcType=CHAR},
+            </if>
+            <if test="pwd != null">
+                #{pwd,jdbcType=VARCHAR},
+            </if>
+            <if test="phoneNo != null">
+                #{phoneNo,jdbcType=VARCHAR},
+            </if>
+            <if test="validFlag != null">
+                #{validFlag,jdbcType=INTEGER},
+            </if>
+            <if test="createTime != null">
+                #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="updateTime != null">
+                #{updateTime,jdbcType=TIMESTAMP},
+            </if>
+        </trim>
+    </insert>
+    <update id="updateByUnionKey" parameterType="com.example.crmgo.register.entity.User">
+        update tb_user
+        <set>
+            <if test="customerId != null">
+                customer_id = #{customerId,jdbcType=VARCHAR},
+            </if>
+            <if test="customerName != null">
+                customer_name = #{customerName,jdbcType=VARCHAR},
+            </if>
+            <if test="certificatesType != null">
+                certificates_type = #{certificatesType,jdbcType=CHAR},
+            </if>
+            <if test="certificatesNo != null">
+                certificates_no = #{certificatesNo,jdbcType=CHAR},
+            </if>
+            <if test="pwd != null">
+                pwd = #{pwd,jdbcType=VARCHAR},
+            </if>
+            <if test="phoneNo != null">
+                phone_no = #{phoneNo,jdbcType=VARCHAR},
+            </if>
+            <if test="validFlag != null">
+                valid_flag = #{validFlag,jdbcType=INTEGER},
+            </if>
+            <if test="createTime != null">
+                create_time = #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="updateTime != null">
+                update_time = #{updateTime,jdbcType=TIMESTAMP},
+            </if>
+        </set>
+        where certificates_type = #{certificatesType,jdbcType=VARCHAR}
+        and certificates_no = #{certificatesNo,jdbcType=VARCHAR}
+    </update>
+    <update id="updateByPrimaryKeySelective" parameterType="com.example.crmgo.register.entity.User">
+        update tb_user
+        <set>
+            <if test="customerId != null">
+                customer_id = #{customerId,jdbcType=VARCHAR},
+            </if>
+            <if test="customerName != null">
+                customer_name = #{customerName,jdbcType=VARCHAR},
+            </if>
+            <if test="certificatesType != null">
+                certificates_type = #{certificatesType,jdbcType=CHAR},
+            </if>
+            <if test="certificatesNo != null">
+                certificates_no = #{certificatesNo,jdbcType=CHAR},
+            </if>
+            <if test="pwd != null">
+                pwd = #{pwd,jdbcType=VARCHAR},
+            </if>
+            <if test="phoneNo != null">
+                phone_no = #{phoneNo,jdbcType=VARCHAR},
+            </if>
+            <if test="validFlag != null">
+                valid_flag = #{validFlag,jdbcType=INTEGER},
+            </if>
+            <if test="createTime != null">
+                create_time = #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="updateTime != null">
+                update_time = #{updateTime,jdbcType=TIMESTAMP},
+            </if>
+        </set>
+        where id = #{id,jdbcType=INTEGER}
+    </update>
+    <update id="updateByPrimaryKey" parameterType="com.example.crmgo.register.entity.User">
+        update tb_user
+        set customer_id       = #{customerId,jdbcType=VARCHAR},
+            customer_name     = #{customerName,jdbcType=VARCHAR},
+            certificates_type = #{certificatesType,jdbcType=CHAR},
+            certificates_no   = #{certificatesNo,jdbcType=CHAR},
+            pwd               = #{pwd,jdbcType=VARCHAR},
+            phone_no          = #{phoneNo,jdbcType=VARCHAR},
+            valid_flag        = #{validFlag,jdbcType=INTEGER},
+            create_time       = #{createTime,jdbcType=TIMESTAMP},
+            update_time       = #{updateTime,jdbcType=TIMESTAMP}
+        where id = #{id,jdbcType=INTEGER}
+    </update>
+</mapper>

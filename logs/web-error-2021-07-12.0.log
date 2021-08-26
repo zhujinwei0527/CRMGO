@@ -1,0 +1,30 @@
+2021-07-12 21:59:32.369 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.example.crmgo.interceptor.intercept' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.example.crmgo.interceptor.intercept' in your configuration.
+
+2021-07-12 22:00:37.877 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.example.crmgo.interceptor.intercept' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.example.crmgo.interceptor.intercept' in your configuration.
+

@@ -1,0 +1,27 @@
+2021-07-25 09:40:51.249 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-25 09:40:51.278 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-25 09:40:51.305 [http-nio-8763-exec-1] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-25 09:40:51.307 [http-nio-8763-exec-1] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==>  Preparing: select * from tb_user_role LIMIT ? 
+2021-07-25 09:40:51.308 [http-nio-8763-exec-1] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-25 09:40:51.310 [http-nio-8763-exec-1] DEBUG c.e.crmgo.register.mapper.UserRoleMapper.selectAll - <==      Total: 2
+2021-07-25 09:41:40.450 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_user_role 
+2021-07-25 09:41:40.450 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-25 09:41:40.451 [http-nio-8763-exec-3] DEBUG c.e.c.r.mapper.UserRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-25 09:43:42.139 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_para_role 
+2021-07-25 09:43:42.162 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-25 09:43:42.181 [http-nio-8763-exec-2] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-25 09:43:42.183 [http-nio-8763-exec-2] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==>  Preparing: select id, role_id, role_name, role_permission, create_time, update_time, valid_flag from tb_para_role order by role_permission, id LIMIT ? 
+2021-07-25 09:43:42.183 [http-nio-8763-exec-2] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-25 09:43:42.188 [http-nio-8763-exec-2] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - <==      Total: 10
+2021-07-25 09:43:56.684 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_para_role 
+2021-07-25 09:43:56.685 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-25 09:43:56.685 [http-nio-8763-exec-4] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-25 09:43:56.686 [http-nio-8763-exec-4] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==>  Preparing: select id, role_id, role_name, role_permission, create_time, update_time, valid_flag from tb_para_role order by role_permission, id LIMIT ?, ? 
+2021-07-25 09:43:56.686 [http-nio-8763-exec-4] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==> Parameters: 10(Long), 10(Integer)
+2021-07-25 09:43:56.688 [http-nio-8763-exec-4] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - <==      Total: 4
+2021-07-25 09:44:07.188 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM tb_para_role 
+2021-07-25 09:44:07.188 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - ==> Parameters: 
+2021-07-25 09:44:07.189 [http-nio-8763-exec-5] DEBUG c.e.c.r.mapper.ParaRoleMapper.selectAll_COUNT - <==      Total: 1
+2021-07-25 09:44:07.189 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==>  Preparing: select id, role_id, role_name, role_permission, create_time, update_time, valid_flag from tb_para_role order by role_permission, id LIMIT ? 
+2021-07-25 09:44:07.190 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - ==> Parameters: 10(Integer)
+2021-07-25 09:44:07.196 [http-nio-8763-exec-5] DEBUG c.e.crmgo.register.mapper.ParaRoleMapper.selectAll - <==      Total: 10
